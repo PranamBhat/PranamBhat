@@ -4,11 +4,11 @@
 **PranamBhat/PranamBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-✨ My name is Pranam Bhat
-✨ I'm a Full Stack Developer
-✨ Hobbies: Travel, Table Tennis
-✨ Current Company : [KPMG](https://home.kpmg/xx/en/home.html)
-✨ Competencies : JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10, C#, .NET Framework, TypeScript, Bootstrap, jQuery, Ruby, Qlik Sense, QlikView, HTML, CSS, UNIX, SQL 
+- ✨ My name is Pranam Bhat
+- ✨ I'm a Full Stack Developer
+- ✨ Hobbies: Travel, Table Tennis
+- ✨ Current Company : [KPMG](https://home.kpmg/xx/en/home.html)
+- ✨ Competencies : JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10, C#, .NET Framework, TypeScript, Bootstrap, jQuery, Ruby, Qlik Sense, QlikView, HTML, CSS, UNIX, SQL 
 
 
 #### 🌱 My latest projects
