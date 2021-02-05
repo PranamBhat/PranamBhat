@@ -60,6 +60,7 @@
 
 #### 📫 How to reach me
 
+- WhatsApp: [+91 8762632589](https://api.whatsapp.com/send?phone=918762632589&text=Hey!%20Pranam!!)
 - Gmail: pranam707@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pranam-bhat-11670689/
 - Twitter: https://twitter.com/pranambhat
