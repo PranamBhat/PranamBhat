@@ -13,6 +13,8 @@
 
 #### 🌱 My latest projects
 
+- [PranamBhat/Power-BI-Example-Mega-Market-Case-Study](https://github.com/PranamBhat/Power-BI-Example-Mega-Market-Case-Study) - Power BI | Example | Mega Market Case Study
+- [PranamBhat/JavaScript-Tricks](https://github.com/PranamBhat/JavaScript-Tricks) - JavaScript Tricks | JavaScript
 - [PranamBhat/AspDotNetMVC](https://github.com/PranamBhat/AspDotNetMVC) - ASP.NET | MVC | WEB APPLICATION
 - [PranamBhat/Google-Analytics](https://github.com/PranamBhat/Google-Analytics) - Google Analytics
 - [PranamBhat/Clinic-Management](https://github.com/PranamBhat/Clinic-Management) - Clinic Management System : ASP.NET, C#, Bootstrap, JavaScript, HTML, CSS, SQL
@@ -20,8 +22,17 @@
 - [PranamBhat/Web-Page-Spying](https://github.com/PranamBhat/Web-Page-Spying) - C# | ASP.NET | .NET Framework | Web Page Spying | Console Application
 
 
+#### 🌱 My JavaScript projects
+
+- [PranamBhat/JavaScript-Tricks](https://github.com/PranamBhat/JavaScript-Tricks) - JavaScript Tricks | JavaScript
+- [PranamBhat/File-Upload](https://github.com/PranamBhat/File-Upload) - File Upload | JavaScript | HTML | CSS
+- [PranamBhat/PageScrollTop](https://github.com/PranamBhat/PageScrollTop) - Automatic Page Scroll To Top | AngularJS | JavaScript | HTML
+- [PranamBhat/JavaScript-Concepts](https://github.com/PranamBhat/JavaScript-Concepts) - JavaScript Style Guide | Examples
+
+
 #### 🌱 My Angular projects
 
+- [PranamBhat/Angular-Lazy-Loading](https://github.com/PranamBhat/Angular-Lazy-Loading) - Angular Lazy Loading | Angular: 10.0.14
 - [PranamBhat/Angular-Client-IP-Address](https://github.com/PranamBhat/Angular-Client-IP-Address) - IP Address | Angular 10
 - [PranamBhat/Angular10-PDF-View](https://github.com/PranamBhat/Angular10-PDF-View) - Angular 10 | PDF Viewer
 - [PranamBhat/Angular10-QR-Code](https://github.com/PranamBhat/Angular10-QR-Code) - Angular 10 | QR Code
@@ -32,6 +43,20 @@
 - [PranamBhat/Angular-Ivy-Compiler](https://github.com/PranamBhat/Angular-Ivy-Compiler) - Angular 10 | Ivy Compiler
 - [PranamBhat/Angular-Select-DropDown](https://github.com/PranamBhat/Angular-Select-DropDown) - Angular 7 | Angular 8 | Angular 9 | Select Dropdown
 - [PranamBhat/Angular-UnitTesting](https://github.com/PranamBhat/Angular-UnitTesting) - Angular 8 | Angular 9 | Jasmine | Karma | Unit Testing
+
+
+#### 🌱 My Power BI projects
+
+- [PranamBhat/Power-BI-Example-Mega-Market-Case-Study](https://github.com/PranamBhat/Power-BI-Example-Mega-Market-Case-Study) - Power BI | Example | Mega Market Case Study
+- [PranamBhat/PowerBI-Executive-Summary-Finance-Report](https://github.com/PranamBhat/PowerBI-Executive-Summary-Finance-Report) - Power BI | Executive Summary – Finance Report
+- [PranamBhat/PowerBI-Design-Your-Dashboard-In-A-Day](https://github.com/PranamBhat/PowerBI-Design-Your-Dashboard-In-A-Day) - Power BI | Design Your Dashboard In A Day
+- [PranamBhat/Power-BI-Materials](https://github.com/PranamBhat/Power-BI-Materials) - Power BI Materials | Examples | Learning Materials
+- [PranamBhat/PowerBI-Developer-Samples](https://github.com/PranamBhat/PowerBI-Developer-Samples) - A collection of Power BI samples for developer use
+- [PranamBhat/PowerBI-Docs](https://github.com/PranamBhat/PowerBI-Docs) - Power BI
+- [PranamBhat/PowerBI-Workshops](https://github.com/PranamBhat/PowerBI-Workshops) - Training workshops for Power BI
+- [PranamBhat/PowerBI-Visuals-Tools](https://github.com/PranamBhat/PowerBI-Visuals-Tools) - Contains tools for building/packaging Power BI visuals
+- [PranamBhat/PowerBI-CSharp](https://github.com/PranamBhat/PowerBI-CSharp) - Resources for the .NET SDKs for Power BI Embedded V2.0.0
+- [PranamBhat/DA-100-Analyzing-Data-with-Power-BI](https://github.com/PranamBhat/DA-100-Analyzing-Data-with-Power-BI) - Hands-on lab exercises for Microsoft course DA-100: Analyzing Data with Power BI
 
 
 #### 🔭 My other projects 
