@@ -74,6 +74,7 @@
 
 #### 📜 My recent blog posts
 
+- [Implementing Lazy Loading in Angular Project](https://www.linkedin.com/pulse/implementing-lazy-loading-angular-project-pranam-bhat/?trackingId=RWUFSGYfQB6IoY6e5uNR0g%3D%3D) - May 06, 2021
 - [Microsoft Introducing .NET 5](https://www.linkedin.com/pulse/microsoft-introducing-net-5-pranam-bhat/) - November 10, 2020
 - [Django Framework Integration with Angular](https://www.linkedin.com/pulse/django-framework-integration-angular-pranam-bhat-1c/) - August 3, 2020
 - [Angular and Ivy Compiler](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-and-ivy-compiler-activity-6701937795709177856-JqWP) (3 months ago)
