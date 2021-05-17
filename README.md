@@ -74,6 +74,7 @@
 
 #### 📜 My recent blog posts
 
+- [Step By Step Guide To Implement Lazy Loading In An Angular Project](https://www.c-sharpcorner.com/article/step-by-step-guide-to-implement-lazy-loading-in-an-angular-project/) - May 15, 2021
 - [Implementing Lazy Loading in Angular Project](https://www.linkedin.com/pulse/implementing-lazy-loading-angular-project-pranam-bhat/?trackingId=RWUFSGYfQB6IoY6e5uNR0g%3D%3D) - May 06, 2021
 - [Microsoft Introducing .NET 5](https://www.linkedin.com/pulse/microsoft-introducing-net-5-pranam-bhat/) - November 10, 2020
 - [Django Framework Integration with Angular](https://www.linkedin.com/pulse/django-framework-integration-angular-pranam-bhat-1c/) - August 3, 2020
