@@ -74,15 +74,25 @@
 
 #### 📜 My recent blog posts
 
+- [Angular DevTools Is Here!](https://www.c-sharpcorner.com/blogs/angular-devtools-is-here) - May 21, 2021
+- [Unit Testing In An Angular Application](https://www.c-sharpcorner.com/blogs/how-to-write-a-test-case-for-an-angular-application) - May 21, 2021
+- [What Is New In Angular 12](https://www.c-sharpcorner.com/blogs/what-is-new-in-angular-12-how-to-upgrade-to-angular-12) - May 18, 2021
 - [Step By Step Guide To Implement Lazy Loading In An Angular Project](https://www.c-sharpcorner.com/article/step-by-step-guide-to-implement-lazy-loading-in-an-angular-project/) - May 15, 2021
 - [Implementing Lazy Loading in Angular Project](https://www.linkedin.com/pulse/implementing-lazy-loading-angular-project-pranam-bhat/?trackingId=RWUFSGYfQB6IoY6e5uNR0g%3D%3D) - May 06, 2021
 - [Microsoft Introducing .NET 5](https://www.linkedin.com/pulse/microsoft-introducing-net-5-pranam-bhat/) - November 10, 2020
-- [Django Framework Integration with Angular](https://www.linkedin.com/pulse/django-framework-integration-angular-pranam-bhat-1c/) - August 3, 2020
-- [Angular and Ivy Compiler](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-and-ivy-compiler-activity-6701937795709177856-JqWP) (3 months ago)
-- [Bootstrap Cheat - Sheet](https://www.linkedin.com/posts/pranam-bhat-11670689_bootstrap-cheat-sheet-activity-6702453079595356160-egHP) (3 months ago)
-- [Vanilla JS](https://www.linkedin.com/posts/pranam-bhat-11670689_vanilla-js-activity-6704991557466103808-Eekj) (3 months ago)
-- [Angular Version](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-version-activity-6700727531068375040-VJ41) (4 months ago)
-- [Steps to upgrade Angular version](https://www.linkedin.com/posts/pranam-bhat-11670689_steps-to-upgrade-angular-version-activity-6701030258122084352-OMOl) (4 months ago)
+- [Django Framework Integration with Angular](https://www.linkedin.com/pulse/django-framework-integration-angular-pranam-bhat-1c/) - November 2020
+- [Angular 11](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-11-activity-6755388416407560192-a1rD) - November 2020
+- [HTML Color Codes](https://www.linkedin.com/posts/pranam-bhat-11670689_html-color-codes-activity-6708978119744847872-rVYV) - October 2020
+- [CORS Policy](https://www.linkedin.com/posts/pranam-bhat-11670689_cors-policy-activity-6706821461337886720-ppNf) - October 2020
+- [Vanilla JS](https://www.linkedin.com/posts/pranam-bhat-11670689_vanilla-js-activity-6704991557466103808-Eekj) - October 2020
+- [Bootstrap Cheat - Sheet](https://www.linkedin.com/posts/pranam-bhat-11670689_bootstrap-cheat-sheet-activity-6702453079595356160-egHP) - September 2020
+- [Angular and Ivy Compiler](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-and-ivy-compiler-activity-6701937795709177856-JqWP) - September 2020
+- [Steps to upgrade Angular version](https://www.linkedin.com/posts/pranam-bhat-11670689_steps-to-upgrade-angular-version-activity-6701030258122084352-OMOl) - August 2020
+- [How to check Angular version?](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-version-activity-6700727531068375040-VJ41) - August 2020
+- [AngularJS Tutorial - 2](https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-tutorial-2-activity-6700391099367854080-AuNP) - July 2020
+- [AngularJS Tutorial - 1](https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-tutorial-1-activity-6699908277146415104-5x-B) - July 2020
+- [AngularJS set-up and installion](https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-set-up-and-installation-activity-6699583199657492481--kCx) - July 2020
+- [Angular Unit Testing using Jasmine and Karma](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-unit-testing-using-jasmine-and-karma-activity-6698195027153297408-TqQS) - July 2020
 
 
 #### 📫 How to reach me
