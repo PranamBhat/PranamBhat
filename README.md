@@ -1,4 +1,4 @@
-**Visitors**: (https://profile-counter.glitch.me/%7BPranamBhat%7D/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{PranamBhat}/count.svg)
 
 
 ### Hi there 👋
