@@ -11,7 +11,7 @@
 - ✨ I'm a **Full Stack Developer**
 - ✨ **Hobbies**: Travel, Table Tennis
 - ✨ **Current Company**: [KPMG](https://home.kpmg/xx/en/home.html)
-- ✨ **Competencies**: JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10/11/12, C#, ASP.NET Framework, TypeScript, Bootstrap, jQuery, Ruby, Qlik Sense, Power BI, HTML, CSS, UNIX, SQL 
+- ✨ **Competencies**: JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10/11/12, C#, ASP.NET Frameworkaabbbbbbbbb, TypeScript, Bootstrap, jQuery, Ruby, Qlik Sense, Power BI, HTML, CSS, UNIX, SQL 
 
 
 #### 🌱 My latest projects
