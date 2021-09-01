@@ -10,7 +10,7 @@
 - ✨ My name is **Pranam Bhat**
 - ✨ I'm a **Full Stack Developer**
 - ✨ **Hobbies**: Travel, Table Tennis
-- ✨ **Current Company**: [KPMG](https://home.kpmg/xx/en/home.html)
+- ✨ **Current Company**: [ABB](https://global.abb/group/en)
 - ✨ **Competencies**: JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10/11/12, C#, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, ASP.NET Framework, TypeScript, Bootstrap, jQuery, Ruby, Vue.js, Qlik Sense, Power BI, HTML, CSS, UNIX, SQL
 
 #### 🌱 My latest projects
