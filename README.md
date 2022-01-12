@@ -14,27 +14,30 @@
 - ✨ **Competencies**: JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10/11/12/13, C#, .NET Core, .NET 5.0, ASP.NET Web API, TypeScript, Bootstrap, jQuery, Ruby, Vue.js, Microsoft Azure, Azure DevOps, Docker, Kubernetes, MongoDB, Node.js, HTML, CSS, UNIX, SQL
 
 
-#### 🌱 My latest projects
+#### 🌱 My Latest Projects
 
-- [PranamBhat/Power-BI-Example-Mega-Market-Case-Study](https://github.com/PranamBhat/Power-BI-Example-Mega-Market-Case-Study) - Power BI | Example | Mega Market Case Study
-- [PranamBhat/JavaScript-Tricks](https://github.com/PranamBhat/JavaScript-Tricks) - JavaScript Tricks | JavaScript
-- [PranamBhat/AspDotNetMVC](https://github.com/PranamBhat/AspDotNetMVC) - ASP.NET | MVC | WEB APPLICATION
-- [PranamBhat/Google-Analytics](https://github.com/PranamBhat/Google-Analytics) - Google Analytics
-- [PranamBhat/Clinic-Management](https://github.com/PranamBhat/Clinic-Management) - Clinic Management System : ASP.NET, C#, Bootstrap, JavaScript, HTML, CSS, SQL
-- [PranamBhat/DotNet-Core-Web-Application](https://github.com/PranamBhat/DotNet-Core-Web-Application) - C# version 8.0 | ASP.NET Core 3.1 | Microsoft .NET Framework Version 4.8.03761 | Microsoft Visual Studio Community 2019 Version 16.7.6
-- [PranamBhat/Web-Page-Spying](https://github.com/PranamBhat/Web-Page-Spying) - C# | ASP.NET | .NET Framework | Web Page Spying | Console Application
+- [PranamBhat/Animated-Login-Page](https://github.com/PranamBhat/Animated-Login-Page) - JavaScript | HTML | CSS
+- [PranamBhat/Bus-Booking-System](https://github.com/PranamBhat/Bus-Booking-System) - Angular 12 | Bootstrap | MongoDB | Node.js | jQuery | HTML | CSS
 
 
-#### 🌱 My JavaScript projects
+#### 🌱 My JavaScript Projects
 
+- [PranamBhat/Comments-and-Reply](https://github.com/PranamBhat/Comments-and-Reply) - Comments and Reply | JavaScript | HTML
 - [PranamBhat/JavaScript-Tricks](https://github.com/PranamBhat/JavaScript-Tricks) - JavaScript Tricks | JavaScript
 - [PranamBhat/File-Upload](https://github.com/PranamBhat/File-Upload) - File Upload | JavaScript | HTML | CSS
 - [PranamBhat/PageScrollTop](https://github.com/PranamBhat/PageScrollTop) - Automatic Page Scroll To Top | AngularJS | JavaScript | HTML
+- [PranamBhat/JavaScript-Tricks](https://github.com/PranamBhat/JavaScript-Tricks) - JavaScript Tricks | JavaScript
 - [PranamBhat/JavaScript-Concepts](https://github.com/PranamBhat/JavaScript-Concepts) - JavaScript Style Guide | Examples
 
 
-#### 🌱 My Angular projects
+#### 🌱 My Angular Projects
 
+- [PranamBhat/Angular-Drag-Drop](https://github.com/PranamBhat/Angular-Drag-Drop) - Angular Drag and Drop | Angular 13 | Angular Material
+- [PranamBhat/HostBinding-and-HostListener](https://github.com/PranamBhat/HostBinding-and-HostListener) - @HostBinding and @HostListener | Angular 13
+- [PranamBhat/Angular-cdk-virtual-scroll-viewport](https://github.com/PranamBhat/Angular-cdk-virtual-scroll-viewport) - Angular 12 Table with Filter, Sort and Selection | Angular Material
+- [PranamBhat/Angular-Custom-ViewportScroller](https://github.com/PranamBhat/Angular-Custom-ViewportScroller) - Angular Custom ViewportScroller | Angular 12
+- [PranamBhat/Organization-Chart](https://github.com/PranamBhat/Organization-Chart) - Organization Chart with Hierarchy Level | Angular 12 | primeng
+- [PranamBhat/Angular-Routing-Product-Management](https://github.com/PranamBhat/Angular-Routing-Product-Management) - Angular Routing | Product Management | Angular 11
 - [PranamBhat/Angular-Lazy-Loading](https://github.com/PranamBhat/Angular-Lazy-Loading) - Angular Lazy Loading | Angular: 10.0.14
 - [PranamBhat/Angular-Client-IP-Address](https://github.com/PranamBhat/Angular-Client-IP-Address) - IP Address | Angular 10
 - [PranamBhat/Angular10-PDF-View](https://github.com/PranamBhat/Angular10-PDF-View) - Angular 10 | PDF Viewer
@@ -48,21 +51,15 @@
 - [PranamBhat/Angular-UnitTesting](https://github.com/PranamBhat/Angular-UnitTesting) - Angular 8 | Angular 9 | Jasmine | Karma | Unit Testing
 
 
-#### 🌱 My Power BI projects
+#### 🌱 My C# | .NET Core | .NET 5.0 Projects
 
-- [PranamBhat/Power-BI-Example-Mega-Market-Case-Study](https://github.com/PranamBhat/Power-BI-Example-Mega-Market-Case-Study) - Power BI | Example | Mega Market Case Study
-- [PranamBhat/PowerBI-Executive-Summary-Finance-Report](https://github.com/PranamBhat/PowerBI-Executive-Summary-Finance-Report) - Power BI | Executive Summary – Finance Report
-- [PranamBhat/PowerBI-Design-Your-Dashboard-In-A-Day](https://github.com/PranamBhat/PowerBI-Design-Your-Dashboard-In-A-Day) - Power BI | Design Your Dashboard In A Day
-- [PranamBhat/Power-BI-Materials](https://github.com/PranamBhat/Power-BI-Materials) - Power BI Materials | Examples | Learning Materials
-- [PranamBhat/PowerBI-Developer-Samples](https://github.com/PranamBhat/PowerBI-Developer-Samples) - A collection of Power BI samples for developer use
-- [PranamBhat/PowerBI-Docs](https://github.com/PranamBhat/PowerBI-Docs) - Power BI
-- [PranamBhat/PowerBI-Workshops](https://github.com/PranamBhat/PowerBI-Workshops) - Training workshops for Power BI
-- [PranamBhat/PowerBI-Visuals-Tools](https://github.com/PranamBhat/PowerBI-Visuals-Tools) - Contains tools for building/packaging Power BI visuals
-- [PranamBhat/PowerBI-CSharp](https://github.com/PranamBhat/PowerBI-CSharp) - Resources for the .NET SDKs for Power BI Embedded V2.0.0
-- [PranamBhat/DA-100-Analyzing-Data-with-Power-BI](https://github.com/PranamBhat/DA-100-Analyzing-Data-with-Power-BI) - Hands-on lab exercises for Microsoft course DA-100: Analyzing Data with Power BI
+- [PranamBhat/CSharp-Programs](https://github.com/PranamBhat/CSharp-Programs) - C# Basic Programs | C# | .NET | MVC
+- [PranamBhat/AspDotNetMVC](https://github.com/PranamBhat/AspDotNetMVC) - ASP.NET | MVC | WEB APPLICATION
+- [PranamBhat/Clinic-Management](https://github.com/PranamBhat/Clinic-Management) - Clinic Management System : ASP.NET, C#, Bootstrap, JavaScript, HTML, CSS, SQL
+- [PranamBhat/DotNet-Core-Web-Application](https://github.com/PranamBhat/DotNet-Core-Web-Application) - C# version 8.0 | ASP.NET Core 3.1 | Microsoft .NET Framework Version 4.8.03761 | Microsoft Visual Studio Community 2019 Version 16.7.6
 
 
-#### 🔭 My other projects 
+#### 🔭 My Other Projects 
 
 - [PranamBhat/Payment-Gateway](https://github.com/PranamBhat/Payment-Gateway) - HTML | CSS | Payment Gateway
 - [PranamBhat/CSharp-Programs](https://github.com/PranamBhat/CSharp-Programs) - C# Basic Programs | C# | ASP.NET | MVC
@@ -73,9 +70,11 @@
 - [PranamBhat/Resize-Window](https://github.com/PranamBhat/Resize-Window) - JavaScript | Resize Div Manually on Browser
 - [PranamBhat/Email-Validation](https://github.com/PranamBhat/Email-Validation) - JavaScript | HTML | CSS | Email Validation
 - [PranamBhat/Bootstrap-4.5.0](https://github.com/PranamBhat/Bootstrap-4.5.0) - Bootstrap 4.5.0 | Examples
+- [PranamBhat/Google-Analytics](https://github.com/PranamBhat/Google-Analytics) - Google Analytics
+- [PranamBhat/Power-BI-Example-Mega-Market-Case-Study](https://github.com/PranamBhat/Power-BI-Example-Mega-Market-Case-Study) - Power BI | Example | Mega Market Case Study
 
 
-#### 📜 My recent blog posts
+#### 📜 My Recent Blog Posts
 
 - [Angular DevTools Is Here!](https://www.c-sharpcorner.com/blogs/angular-devtools-is-here) - May 21, 2021
 - [Unit Testing In An Angular Application](https://www.c-sharpcorner.com/blogs/how-to-write-a-test-case-for-an-angular-application) - May 21, 2021
