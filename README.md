@@ -48,7 +48,7 @@
 - [PranamBhat/Angular-Bootstrap-Dashboard](https://github.com/PranamBhat/Angular-Bootstrap-Dashboard) - Angular 10 | Bootstrap | jQuery | Dashboard
 - [PranamBhat/Angular-Ivy-Compiler](https://github.com/PranamBhat/Angular-Ivy-Compiler) - Angular 10 | Ivy Compiler
 - [PranamBhat/Angular-Select-DropDown](https://github.com/PranamBhat/Angular-Select-DropDown) - Angular 7 | Angular 8 | Angular 9 | Select Dropdown
-- [PranamBhat/Angular-UnitTesting](https://github.com/PranamBhat/Angular-UnitTesting) - Angular 8 | Angular 9 | Jasmine | Karma | Unit Testing
+- [PranamBhat/Angular-UnitTesting](https://github.com/PranamBhat/Angular-Unit-Testing) - Angular Unit Testing | Angular 13 | Jasmine | Karma
 
 
 #### 🌱 My C# | .NET Core | .NET 5.0 Projects
@@ -76,6 +76,15 @@
 
 #### 📜 My Recent Blog Posts
 
+- [List Of Algorithns In Computer Programming](https://www.c-sharpcorner.com/article/list-of-algorithns-in-computer-programming/) - December 07, 2021
+- [Angular 13 is now available!](https://www.linkedin.com/pulse/angular-13-now-available-pranam-bhat/) - November 04, 2021
+- [How to make use of LinkedIn professionally and effectively?](https://www.linkedin.com/pulse/how-make-use-linkedin-professionally-effectively-pranam-bhat/) - October 12, 2021
+- [How To Connect MongoDB](https://www.c-sharpcorner.com/article/how-to-connect-mongodb/) - August 05, 2021
+- [List Of Commonly Used GitHub Commands](https://www.c-sharpcorner.com/article/list-of-commonly-used-github-commands/) - June 29, 2021
+- [Commonly Used Angular Commands](https://www.c-sharpcorner.com/article/commonly-used-angular-commands/) - June 28, 2021
+- [Basic Structure Of An Angular Application](https://www.c-sharpcorner.com/blogs/basic-structure-of-an-angular-application) - June 10, 2021
+- [Step By Step Guide To Create An Angular Project](https://www.c-sharpcorner.com/blogs/step-by-step-guide-to-create-an-angular-project) - June 02, 2021
+- [Adding New Project To The GitHub Repository](https://www.c-sharpcorner.com/blogs/adding-new-project-to-the-github-repository) - May 24, 2021
 - [Angular DevTools Is Here!](https://www.c-sharpcorner.com/blogs/angular-devtools-is-here) - May 21, 2021
 - [Unit Testing In An Angular Application](https://www.c-sharpcorner.com/blogs/how-to-write-a-test-case-for-an-angular-application) - May 21, 2021
 - [What Is New In Angular 12](https://www.c-sharpcorner.com/blogs/what-is-new-in-angular-12-how-to-upgrade-to-angular-12) - May 18, 2021
