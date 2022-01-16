@@ -16,6 +16,7 @@
 
 #### 🌱 My Latest Projects
 
+- - [PranamBhat/angular-firebase-hosting](https://github.com/PranamBhat/angular-firebase-hosting) - Firebase Hosting | Deployment | Angular 13.0.3 | TypeScript | JavaScript | HTML | CSS
 - [PranamBhat/Animated-Login-Page](https://github.com/PranamBhat/Animated-Login-Page) - JavaScript | HTML | CSS
 - [PranamBhat/Bus-Booking-System](https://github.com/PranamBhat/Bus-Booking-System) - Angular 12 | Bootstrap | MongoDB | Node.js | jQuery | HTML | CSS
 
@@ -76,6 +77,7 @@
 
 #### 📜 My Recent Blog Posts
 
+- [How to Deploy and Host an Angular application on Firebase?](https://www.linkedin.com/pulse/how-deploy-host-angular-application-firebase-pranam-bhat/) - January 16, 2022
 - [List Of Algorithns In Computer Programming](https://www.c-sharpcorner.com/article/list-of-algorithns-in-computer-programming/) - December 07, 2021
 - [Angular 13 is now available!](https://www.linkedin.com/pulse/angular-13-now-available-pranam-bhat/) - November 04, 2021
 - [How to make use of LinkedIn professionally and effectively?](https://www.linkedin.com/pulse/how-make-use-linkedin-professionally-effectively-pranam-bhat/) - October 12, 2021
