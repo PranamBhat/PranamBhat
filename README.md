@@ -16,7 +16,7 @@
 
 #### 🌱 My Latest Projects
 
-- - [PranamBhat/angular-firebase-hosting](https://github.com/PranamBhat/angular-firebase-hosting) - Firebase Hosting | Deployment | Angular 13.0.3 | TypeScript | JavaScript | HTML | CSS
+- [PranamBhat/angular-firebase-hosting](https://github.com/PranamBhat/angular-firebase-hosting) - Firebase Hosting | Deployment | Angular 13.0.3 | TypeScript | JavaScript | HTML | CSS
 - [PranamBhat/Animated-Login-Page](https://github.com/PranamBhat/Animated-Login-Page) - JavaScript | HTML | CSS
 - [PranamBhat/Bus-Booking-System](https://github.com/PranamBhat/Bus-Booking-System) - Angular 12 | Bootstrap | MongoDB | Node.js | jQuery | HTML | CSS
 
