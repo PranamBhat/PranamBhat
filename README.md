@@ -11,7 +11,7 @@
 - ✨ I'm a **Full Stack Developer**
 - ✨ **Hobbies**: Travel, Table Tennis
 - ✨ **Current Company**: [ABB](https://global.abb/group/en)
-- ✨ **Competencies**: JavaScript, AngularJS, Angular 2/4/5/6/7/8/9/10/11/12/13/14/15, C#, .NET Core, .NET 5.0, TypeScript, Bootstrap, jQuery, Vue.js, Microsoft Azure, Azure DevOps, Docker, Kubernetes, MongoDB, Node.js, HTML, CSS, UNIX, SQL
+- ✨ **Competencies**: JavaScript, AngularJS, Angular 18, C#, .NET Core, .NET 5.0, TypeScript, Bootstrap, jQuery, Microsoft Azure, Azure DevOps, Docker, Kubernetes, MongoDB, Node.js, HTML, CSS, UNIX, SQL
 
 
 #### 🌱 My Latest Projects
@@ -106,13 +106,3 @@
 - [AngularJS Tutorial - 1](https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-tutorial-1-activity-6699908277146415104-5x-B) - July 2020
 - [AngularJS set-up and installion](https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-set-up-and-installation-activity-6699583199657492481--kCx) - July 2020
 - [Angular Unit Testing using Jasmine and Karma](https://www.linkedin.com/posts/pranam-bhat-11670689_angular-unit-testing-using-jasmine-and-karma-activity-6698195027153297408-TqQS) - July 2020
-
-
-#### 📫 How to reach me
-
-- **WhatsApp**: [+91 8762632589](https://api.whatsapp.com/send?phone=918762632589&text=Hey!%20Pranam!!)
-- **Gmail**: pranam707@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/pranam-bhat-11670689/
-- **Twitter**: https://twitter.com/pranambhat
-- **Facebook**: https://www.facebook.com/pranam.bhat
-- **Instagram**: https://www.instagram.com/pranam_speaks
