@@ -1,6 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{PranamBhat}/count.svg)
-
-
 ### Hi there 👋
 
 <!--
