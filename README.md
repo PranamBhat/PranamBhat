@@ -8,7 +8,7 @@
 - ✨ I'm a **Full Stack Developer**
 - ✨ **Hobbies**: Travel, Table Tennis
 - ✨ **Current Company**: [ABB](https://global.abb/group/en)
-- ✨ **Competencies**: JavaScript, AngularJS, Angular 18, C#, .NET Core, .NET 5.0, TypeScript, Bootstrap, jQuery, Microsoft Azure, Azure DevOps, Docker, Kubernetes, MongoDB, Node.js, HTML, CSS, UNIX, SQL
+- ✨ **Competencies**: JavaScript, AngularJS, Angular 18, C#, .NET, TypeScript, Bootstrap, jQuery, Microsoft Azure, Docker, Kubernetes, CI/CD Pipeline, Microservices, MongoDB, Node.js, HTML, CSS, UNIX, SQL
 
 
 #### 🌱 My Latest Projects
