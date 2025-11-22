@@ -7,8 +7,8 @@
 - ✨ My name is **Pranam Bhat**
 - ✨ I'm a **Full Stack Developer**
 - ✨ **Hobbies**: Travel, Table Tennis
-- ✨ **Current Company**: [ABB](https://global.abb/group/en)
-- ✨ **Competencies**: JavaScript, AngularJS, Angular 18, C#, .NET, TypeScript, Bootstrap, jQuery, Microsoft Azure, Docker, Kubernetes, CI/CD Pipeline, Microservices, MongoDB, Node.js, HTML, CSS, UNIX, SQL
+- ✨ **Current Company**: [Persistent Systems](https://www.persistent.com)
+- ✨ **Competencies**: JavaScript, AngularJS, Angular 18/19/20, TypeScript, Node.js, C#, .NET, MongoDB, Microsoft Azure, CI/CD Pipeline, Microservices, HTML, CSS/SCSS, SQL
 
 
 #### 🌱 My Latest Projects
